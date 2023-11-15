@@ -320,7 +320,7 @@ poetry install
 
 <br>
 
-## API Documentation
+## 🗒 API Documentation
 <img width="800" alt="API-Documentation" src="https://user-images.githubusercontent.com/51039577/281304702-60ff0191-1b6d-4637-aff9-7db70d47af6e.png">
 
 > 아래의 토글을 열면 Request/Response를 확인할 수 있습니다.
